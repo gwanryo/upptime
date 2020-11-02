@@ -1,4 +1,5 @@
 # [📈 Live Status](https://status.jmm.kr): <!--live status--> **🟩 All systems operational**
+This page shows **real-time** status of the JMM website and API.
 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |

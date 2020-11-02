@@ -16,11 +16,13 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
-  introTitle: ""
-  introMessage: 
+  introTitle: "JMM Status"
+  introMessage: This page shows **real-time** status of the JMM website and API.
   navbar:
     - title: Status
       href: /
+    - title: JMM
+      href: https://jmm.kr
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
