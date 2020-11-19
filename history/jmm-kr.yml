@@ -1,7 +1,7 @@
 - url: https://jmm.kr
-- status: up
+- status: down
 - code: 200
-- responseTime: 1191
-- lastUpdated: 2020-11-18T23:16:40.384Z
+- responseTime: 1190
+- lastUpdated: 2020-11-19T06:50:53.185Z
 - startTime: 2020-11-02T02:26:13.340Z
 - generator: Upptime <https://github.com/upptime/upptime>
