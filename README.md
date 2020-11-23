@@ -8,7 +8,7 @@ This page shows **real-time** status of the JMM website and API.
 
 | URL                      | Status | History                                                                            | Response Time                                                                | Uptime                                                                                                                                                                                           |
 | ------------------------ | ------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [JMM.KR](https://jmm.kr) | 🟩 Up  | [jmm-kr.yml](https://github.com/gwanryo/upptime/commits/master/history/jmm-kr.yml) | <img alt="Response time graph" src="./graphs/jmm-kr.png" height="20"> 1013ms | [![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgwanryo%2Fupptime%2Fmaster%2Fapi%2Fjmm-kr%2Fuptime.json)](https://status.jmm.kr/history/jmm-kr) |
+| [JMM.KR](https://jmm.kr) | 🟩 Up  | [jmm-kr.yml](https://github.com/gwanryo/upptime/commits/master/history/jmm-kr.yml) | <img alt="Response time graph" src="./graphs/jmm-kr.png" height="20"> 1020ms | [![Uptime 99.82%%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgwanryo%2Fupptime%2Fmaster%2Fapi%2Fjmm-kr%2Fuptime.json)](https://status.jmm.kr/history/jmm-kr) |
 
 <!--end: status pages-->
 
