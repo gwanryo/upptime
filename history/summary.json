@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jmm.kr.ico",
     "slug": "jmm-kr",
     "status": "up",
-    "uptime": "97.03%",
+    "uptime": "97.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.36%",
-    "uptimeMonth": "84.39%",
-    "uptimeYear": "93.09%",
-    "time": 1003,
-    "timeDay": 933,
-    "timeWeek": 808,
-    "timeMonth": 844,
+    "uptimeWeek": "63.37%",
+    "uptimeMonth": "87.69%",
+    "uptimeYear": "93.28%",
+    "time": 1002,
+    "timeDay": 820,
+    "timeWeek": 846,
+    "timeMonth": 849,
     "timeYear": 978,
     "dailyMinutesDown": {
       "2023-04-18": 836,
@@ -54,8 +54,7 @@
       "2022-09-16": 31,
       "2022-05-17": 28,
       "2022-05-04": 139,
-      "2022-05-03": 75,
-      "2022-04-23": 29
+      "2022-05-03": 75
     }
   }
 ]
