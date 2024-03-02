@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jmm.kr.ico",
     "slug": "jmm-kr",
     "status": "up",
-    "uptime": "97.74%",
+    "uptime": "97.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.62%",
-    "time": 918,
-    "timeDay": 864,
-    "timeWeek": 929,
-    "timeMonth": 914,
-    "timeYear": 882,
+    "time": 917,
+    "timeDay": 768,
+    "timeWeek": 901,
+    "timeMonth": 907,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2023-09-12": 741,
       "2023-08-18": 162,
@@ -46,8 +46,7 @@
       "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
-      "2023-03-04": 1440,
-      "2023-03-03": 329
+      "2023-03-04": 1440
     }
   }
 ]
