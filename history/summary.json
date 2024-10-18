@@ -4,7 +4,7 @@
     "url": "https://jmm.kr",
     "icon": "https://icons.duckduckgo.com/ip3/jmm.kr.ico",
     "slug": "jmm-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "98.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 903,
     "timeYear": 903,
     "dailyMinutesDown": {
+      "2024-10-18": 0,
       "2024-06-08": 25,
       "2024-05-29": 88,
       "2024-05-23": 915,
