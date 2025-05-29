@@ -5,19 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jmm.kr.ico",
     "slug": "jmm-kr",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 901,
-    "timeDay": 975,
-    "timeWeek": 900,
-    "timeMonth": 885,
+    "timeDay": 796,
+    "timeWeek": 888,
+    "timeMonth": 882,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2024-06-08": 25,
-      "2024-05-29": 88
+      "2024-06-08": 25
     }
   }
 ]
